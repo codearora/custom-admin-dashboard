@@ -1,0 +1,5 @@
+
+{
+  "name": "Voice Agent Call Analytics Dashboard",
+  "description": "A high-performance analytics dashboard for voice agents featuring call duration trends, sad path analysis, and custom data persistence with user identity verification."
+}
